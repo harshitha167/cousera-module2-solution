@@ -4,7 +4,7 @@
 
 h1{
   text-align: center;
-  font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+  font-family: sans-serif;
 }
 
 p {
@@ -14,6 +14,9 @@ p {
   margin-right: 10px;
   padding: 40px 10px 5px 10px;
   overflow: hidden;
+  font-family: serif;
+  font-size: 16px;
+  text-align: justify;
 }
 
 
@@ -41,7 +44,7 @@ p {
   width: 120px;
   padding: 10px;
   text-align: center;
-  font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+  font-family:sans-serif;
 
 }
 #p2 {
@@ -55,7 +58,7 @@ p {
   width: 120px;
   padding: 10px;
   text-align: center;
-  font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+  font-family: sans-serif;
 
 }
 #p3 {
@@ -68,7 +71,7 @@ p {
   width: 120px;
   padding: 10px;
   text-align: center;
-  font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+  font-family: sans-serif;
 
 }
 
